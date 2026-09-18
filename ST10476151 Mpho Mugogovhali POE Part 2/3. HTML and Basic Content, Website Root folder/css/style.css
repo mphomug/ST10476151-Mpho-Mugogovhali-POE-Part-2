@@ -401,10 +401,3 @@ main selection a {
 }
 
 
-<img 
-    src="images/logo.png"
-    srcset="images/logo.png 150w"
-    sizes="(max-width: 600px) 40px, 50px"
-    alt="The Daily Grind Café"
-    width="150"
-    height="150">
